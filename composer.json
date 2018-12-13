@@ -14,7 +14,7 @@
         "twbs/bootstrap": "^3.3",
         "components/jquery": "^2.2"
     },
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Scott-David Jones",
@@ -28,7 +28,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "FnacMarketplace\\FnacApi\\": "src/"
+            "FnacMarketplace\\FnacApiClient\\": "src/"
         }
     }
 }
